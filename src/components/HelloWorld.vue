@@ -102,6 +102,11 @@ export default defineComponent({
 
   props: {
     msg: String
+  },
+  data() {
+    return {
+      hjh: 'hjh'
+    }
   }
 })
 </script>
