@@ -5,7 +5,7 @@ module.exports = defineConfig({
   configureWebpack: {
     resolve: {
       alias: {
-        hjh: '@/components'
+        components: '@/components'
       }
     }
   }
