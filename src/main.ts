@@ -5,4 +5,4 @@ import store from './store'
 
 createApp(App).use(router).use(store).mount('#app')
 
-console.log('环境', process)
+console.log('环境', process);
